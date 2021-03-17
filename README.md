@@ -1,16 +1,14 @@
-## Hi I'm Sahil Janbandhu 
+## Hi I'm Hrishikesh Panhalkar 
 **"Life should be Great rather then Long".**
 On adventure on learning programming! 
 I'm an Aspiring Software developer looking out for new opportunities.
 Learning **new things** Everyday. 
 
 **Gmail id:**
-[Gmail](https://www.github.com/sahil14498@gmail.com)
-
-**Website:** [My Website](https://sahiljanbandhu.github.io/)
+[Gmail](https://www.github.com/hrishikeshpanhalkar7@gmail.com)
 
 **Social Site:**
-[Twitter](https://twitter.com/sahil_janbandhu) [LinkedIn](https://www.linkedin.com/in/sahil-janbandhu/) [Facebook](https://www.facebook.com/s.d.janbandhu)
+[LinkedIn](https://www.linkedin.com/in/hrishikesh-panhalkar-0ba64b167/) [Facebook]()
 
   
 <details>
