@@ -8,7 +8,7 @@ Learning **new things** Everyday.
 [Gmail](https://www.github.com/hrishikeshpanhalkar7@gmail.com)
 
 **Social Site:**
-[LinkedIn](https://www.linkedin.com/in/hrishikesh-panhalkar-0ba64b167/) [Facebook]()
+[LinkedIn](https://www.linkedin.com/in/hrishikesh-panhalkar-0ba64b167/) [Facebook](https://www.facebook.com/HrishikeshPanhalkar/)
 
   
 <details>
