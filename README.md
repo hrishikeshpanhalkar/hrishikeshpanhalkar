@@ -15,7 +15,7 @@ Learning **new things** Everyday.
   <summary>📈 My GitHub Stats</summary>
   
    ![Hrishikesh Panhalkar Stats](https://github-readme-stats.vercel.app/api?username=hrishikeshpanhalkar&show_icons=true&theme=vision-friendly-dark)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrishikeshpanhalkar&theme=tokyonight)
 
 
 
